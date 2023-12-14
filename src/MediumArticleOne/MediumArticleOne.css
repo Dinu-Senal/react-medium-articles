@@ -1,0 +1,21 @@
+.theatre-row {
+    display: flex;
+    margin-top: 5px;
+}
+
+.person-section {
+  margin-right: 5px;
+}
+
+.person-button {
+  background-color: #F6F2E4;
+  border: 1px solid #000;
+  border-radius: 8px;
+  padding: 20px 30px 20px 30px;
+  cursor: pointer;
+}
+
+.person-button:hover {
+  background-color: #000;
+  color: #FFF;
+}
